@@ -16,7 +16,7 @@ Como usar a IA para entender emoções em textos, transformar fala em textos al�
 **Etapas realizadas**
 ---
 1. ## Assista as vídeo-aulas na íntegra ##
-2. ## Acessar o Speech Studio através do link ## (speech.microsoft.com/portal)
+2. ## Acessar o Speech Studio através do link ##  [(speech.microsoft.com/portal)]
 3. ## testar o seu conhecimento de fala utilizando os fundamentos da linguagem natural da IA do Azure e suas capacidades de processamento. ##
 4. ## Aprender a reconhecer quando o processamento de linguagem natural e a IA Conversacional podem ser utilizados. ##
 5. ## Analise de sentimentos em textos: Identificar os serviços de IA do Azure que incluem processamento de linguagem natural; ao utilizarmos a análise de texto nesse processamento podemos obter dados como taxa de aprovação ou rejeição de serviços através dos dados que enviamos como evento, local, data e hora; após analise rigorosa dos dados que nós enviamos a IA consegue determinar se o nosso sentimento foi positivo ou negativo. ##
